@@ -1,10 +1,7 @@
-Examples using keyword: gasoline
-
 Hello World!
-ELWWT FTPWO!
 
-My name is Trevor
-VC UGVL ZM KPLHTP
+My name is Trevor.
 
-I love coding
-Z WTHL STOZUN
+I love coding!
+
+Keyword: gasoline
