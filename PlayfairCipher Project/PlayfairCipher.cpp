@@ -5,8 +5,8 @@
 ** Class: 	CSC 242
 ** Assignment: 	Lesson #5
 ** File: 	PlayfairCipher.cpp
-** Description: This program encrypts or decrypts an input file into an output
-** file using a playfair cipher.
+** Description: This program encrypts or decrypts an input text using a playfair 
+**              cipher created using a keyword.
 **
 ** Author: 	Trevor Fune
 ** Date: 	28 Aug 2024

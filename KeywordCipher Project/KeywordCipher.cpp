@@ -98,7 +98,7 @@ void encrypt_file (ifstream& input, ofstream& output, const string& encrypted_al
 }
 
 /**
- * Decrypts a fild using an encrypted alphabet
+ * Decrypts a file using an encrypted alphabet
  * @param input ifstream of input file
  * @param output ofstream of output file
  * @param encrypted_alphabet string containing encrypted alphabet
